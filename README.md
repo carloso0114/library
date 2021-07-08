@@ -4,7 +4,7 @@
 
 ## Live Link Demo
 
-[Live Link Demo](https://pacyl2k19.github.io/library/)
+[Live Link Demo](https://carloso0114.github.io/library/)
 ![screenshot](./assets/sdkcap.png)
 
 ## Built With
@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 - Open Terminal
-- In your prefered folder, run `git clone https://github.com/pacyL2K19/library`
+- In your prefered folder, run `https://github.com/carloso0114/library.git`
 - Open the `index.html` in the folder to run the project
 
 
